@@ -1,0 +1,10 @@
+ipywidgets
+notebook
+ensure
+py-youtube
+
+pytest
+tox
+black
+mypy
+flake8
